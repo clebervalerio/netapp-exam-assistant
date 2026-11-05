@@ -40,3 +40,4 @@ Sempre que uma questão ou print for enviado:
 3. **Caminho Oficial no Net2** (`Net2 > Menu > Submenu > Job Aid`).
 4. **Dupla Checagem & Filtro de Pegadinhas** (termos como *NOT*, *EXCEPT*, inversões de perspectiva).
 5. **Registro Automático** no histórico de estudos local.
+
