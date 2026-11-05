@@ -1,0 +1,6 @@
+{
+  "name": "netapp-exam-assistant",
+  "displayName": "NetApp Exam & Net2 Assistant",
+  "version": "1.0.0",
+  "description": "Assistente nativo do Antigravity para resolução automatizada de exames NetApp (ASE-2 / Net2) com validação local."
+}
